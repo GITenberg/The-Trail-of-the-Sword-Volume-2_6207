@@ -1,5 +1,5 @@
 _repo: The-Trail-of-the-Sword-Volume-2_6207
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Canada -- History -- To 1763 (New France) -- Fiction'
 - !lcc 'PS'
+- GITenberg
 title: The Trail of the Sword, Volume 2
 url: http://www.gutenberg.org/ebooks/6207
